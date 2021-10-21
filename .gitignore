@@ -10,3 +10,4 @@
 hs_err_pid*
 /.idea/
 design_pattern.iml
+/target/
