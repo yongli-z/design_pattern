@@ -1,4 +1,5 @@
 package org.zyl.design.behavioral.state;
 
-public class State {
+public interface State {
+   public void setState(Context context);
 }
