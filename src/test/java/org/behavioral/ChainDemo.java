@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 import org.junit.Before;
 import org.junit.Test;
 import org.zyl.design.behavioral.chainOfResponsibility.*;

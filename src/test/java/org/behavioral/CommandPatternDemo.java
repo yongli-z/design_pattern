@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 import org.zyl.design.behavioral.command.Broker;
 import org.zyl.design.behavioral.command.BuyStock;

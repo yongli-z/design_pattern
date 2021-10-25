@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 import org.zyl.design.behavioral.iterator.Iterator;
 import org.zyl.design.behavioral.iterator.NameRepository;

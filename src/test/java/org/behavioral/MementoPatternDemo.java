@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 import org.zyl.design.behavioral.memento.CareTaker;
 import org.zyl.design.behavioral.memento.Originator;

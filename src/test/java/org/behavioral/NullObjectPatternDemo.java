@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 
 import lombok.extern.java.Log;

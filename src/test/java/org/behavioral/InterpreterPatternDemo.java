@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 import org.zyl.design.behavioral.Interpreter.AndExpression;
 import org.zyl.design.behavioral.Interpreter.Expression;

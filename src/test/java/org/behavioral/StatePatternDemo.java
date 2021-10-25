@@ -1,4 +1,4 @@
-package org;
+package org.behavioral;
 
 import org.zyl.design.behavioral.state.Context;
 import org.zyl.design.behavioral.state.StartState;
